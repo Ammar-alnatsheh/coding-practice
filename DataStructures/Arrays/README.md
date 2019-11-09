@@ -35,3 +35,6 @@ int arr2[] = {10, 20, 30, 40, 50};
 // and arr2[3] gives us 40.
 Usually, an array of characters is called a ‘string’, whereas an array of ints or floats is called simply an array.
 ```
+
+
+** Article and Images inverted from GeeksforGeeks.com
