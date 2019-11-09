@@ -5,7 +5,7 @@ For simplicity, we can think of an array a fleet of stairs where on each step is
 Remember: “Location of next index depends on the data type we use”.
 array
 
-<img src="">
+<img src="https://github.com/Ammar-alnatsheh/coding-practice/tree/master/DataStructures/Arrays/Images/Array.png">
 
 The above image can be looked as a top-level view of a staircase where you are at the base of staircase. Each element can be uniquely identified by their index in the array (in a similar way as you could identify your friends by the step on which they were on in the above example).
 
@@ -16,7 +16,7 @@ Types of indexing in array:
 1 (one-based indexing): The first element of the array is indexed by subscript of 1
 n (n-based indexing): The base index of an array can be freely chosen. Usually programming languages allowing n-based indexing also allow negative index values and other scalar data types like enumerations, or characters may be used as an array index.
 
-<img src="">
+<img src="https://github.com/Ammar-alnatsheh/coding-practice/tree/master/DataStructures/Arrays/Images/Array-In-C.png">
 
 ### Advantages of using arrays:
 
